@@ -15,4 +15,4 @@
 | [Synchronization Effects](https://beta.reactjs.org/learn/synchronizing-with-effects) ("Effects that are caused by rendering itself rather than by a particular event") | ✅ |
 
 [^1]: [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect)
-[^2]: [Using useEffect Effectively](https://youtu.be/lrs8FNSUdkw?t=18990) by David Khourside ([slides](https://slides.com/davidkhourshid/using-useeffect-effectively))
+[^2]: [Using useEffect Effectively](https://youtu.be/lrs8FNSUdkw?t=18990) by David Khourshid ([slides](https://slides.com/davidkhourshid/using-useeffect-effectively))
