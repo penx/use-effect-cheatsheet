@@ -9,7 +9,7 @@
 | [Sending a POST request](https://beta.reactjs.org/learn/you-might-not-need-an-effect#sending-a-post-request) <br> Responding to an event handler <br> Responding to user events | Use event handlers, or state transitions. |
 | [Chains of computations](https://beta.reactjs.org/learn/you-might-not-need-an-effect#chains-of-computations) | Calculate what you can during rendering, and adjust the state in the event handler. |
 | [Notifying parent components about state changes](https://beta.reactjs.org/learn/you-might-not-need-an-effect#notifying-parent-components-about-state-changes) <br> [Passing data to the parent](https://beta.reactjs.org/learn/you-might-not-need-an-effect#passing-data-to-the-parent) <br> Communicating with parents | Move calls to parent props in to event handlers. |
-| [Subscribing to an external store](https://beta.reactjs.org/learn/you-might-not-need-an-effect#subscribing-to-an-external-store) | useSyncExternalStore. |
+| [Subscribing to an external store](https://beta.reactjs.org/learn/you-might-not-need-an-effect#subscribing-to-an-external-store) <br> Interacting with browser APIs | useSyncExternalStore. |
 | [Fetching data](https://beta.reactjs.org/learn/you-might-not-need-an-effect#fetching-data) | react-query, react-router, apollo-client. |
 | [Initializing the application](https://beta.reactjs.org/learn/you-might-not-need-an-effect#initializing-the-application) <br> Initializing global singletons | Call them outside of the component. |
 | [Synchronization Effects](https://beta.reactjs.org/learn/synchronizing-with-effects) ("Effects that are caused by rendering itself rather than by a particular event") | ✅ |
